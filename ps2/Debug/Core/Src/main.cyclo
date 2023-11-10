@@ -1,0 +1,5 @@
+main.c:68:5:main	1
+main.c:126:6:SystemClock_Config	4
+main.c:171:13:MX_SPI1_Init	2
+main.c:211:13:MX_GPIO_Init	1
+main.c:470:6:Error_Handler	1
