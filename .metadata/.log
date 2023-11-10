@@ -1,0 +1,48 @@
+!SESSION 2023-11-10 15:04:04.776 -----------------------------------------------
+eclipse.buildId=Version 1.13.1
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/cpgvega/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -data /Users/cpgvega/Library/Mobile Documents/com~apple~CloudDocs/Michigan/2023-2024 UMICH/Fall 2023/EECS 373/Rock-em-Sock-em-Motion -keyring /Users/cpgvega/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-11-10 15:04:12.421
+!MESSAGE Log4j2 initialized with config file /Users/cpgvega/Library/Mobile Documents/com~apple~CloudDocs/Michigan/2023-2024 UMICH/Fall 2023/EECS 373/Rock-em-Sock-em-Motion/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-11-10 15:04:17.072
+!MESSAGE Started RMI Server, listening on port 41338
+!SESSION 2023-11-10 15:06:09.887 -----------------------------------------------
+eclipse.buildId=Version 1.13.1
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/cpgvega/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/cpgvega/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-11-10 15:06:17.216
+!MESSAGE Log4j2 initialized with config file /Users/cpgvega/Library/Mobile Documents/com~apple~CloudDocs/Michigan/2023-2024 UMICH/Fall 2023/EECS 373/Rock-em-Sock-em-Motion/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-11-10 15:06:21.347
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2023-11-10 15:07:41.409 -----------------------------------------------
+eclipse.buildId=Version 1.13.1
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/cpgvega/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/cpgvega/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-11-10 15:07:48.734
+!MESSAGE Log4j2 initialized with config file /Users/cpgvega/Library/Mobile Documents/com~apple~CloudDocs/Michigan/2023-2024 UMICH/Fall 2023/EECS 373/Rock-em-Sock-em-Motion/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-11-10 15:07:52.513
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-11-10 15:10:39.299
+!MESSAGE Indexed 'Rock-em-Sock-em-Motion' (21 sources, 81 headers) in 5.28 sec: 5,075 declarations; 26,924 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0062%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-11-10 15:12:49.384
+!MESSAGE Indexed 'RSM_Code' (36 sources, 100 headers) in 4.3 sec: 10,391 declarations; 93,513 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0019%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-11-10 15:13:58.155
+!MESSAGE Indexed 'RSM_Code' (21 sources, 81 headers) in 2.81 sec: 5,075 declarations; 26,924 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0062%)
