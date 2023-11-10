@@ -24,21 +24,20 @@ We intend to use a “Dance Dance Revolution” floor pad to take input from the
 
 ## Staging of Project
 ### Deliverables Stage 1:
-[x] 1 PS2 DDR Pad communicating with MCU, inputs can be seen on laptop
-[] 2 Handheld buttons communicating with MCU 
-[] 1 modified functional Rock’em Sock’em Robot with servos and solenoids communicating with MCU
+- [x] 1 PS2 DDR Pad communicating with MCU, inputs can be seen on laptop
+- [ ] 2 Handheld buttons communicating with MCU 
+- [ ] 1 modified functional Rock’em Sock’em Robot with servos and solenoids communicating with MCU
 ### Deliverables Stage 2:
-[] 2 handheld accelerometers for punch signaling replacing the 2 buttons
-[] Create mount for handheld accelerometers to allow unlimited movability
-
+- [ ] 2 handheld accelerometers for punch signaling replacing the 2 buttons
+- [ ] Create mount for handheld accelerometers to allow unlimited movability
 ### Deliverables Stage 3:
-[] 2 Robot head accelerometers for tracking winners
-[] 1 Scoring LCD for displaying score
+- [ ] 2 Robot head accelerometers for tracking winners
+- [ ] 1 Scoring LCD for displaying score
 ### Deliverables Stage 4:
-[] Make punch controls communication between accelerometer and MCU wireless
+- [ ] Make punch controls communication between accelerometer and MCU wireless
 ### Deliverables Stage 5:
-[] 1 Speaker for creating game sounds
+- [ ] 1 Speaker for creating game sounds
 ### Deliverables Stage 6:
-[] Duplication of controls for other robot
+- [ ] Duplication of controls for other robot
 
 
