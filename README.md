@@ -25,7 +25,7 @@ We intend to use a “Dance Dance Revolution” floor pad to take input from the
 ## Staging of Project
 ### Deliverables Stage 1
 - [x] 1 PS2 DDR Pad communicating with MCU, inputs can be seen on laptop
-- [ ] 2 Handheld buttons communicating with MCU 
+- [x] 2 Handheld buttons communicating with MCU 
 - [ ] 1 modified functional Rock’em Sock’em Robot with servos and solenoids communicating with MCU
 
 ### Deliverables Stage 2
